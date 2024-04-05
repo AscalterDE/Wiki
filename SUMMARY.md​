@@ -1,9 +1,10 @@
-‌# Summary​
+# Summary
 
-## Freebuild
+[Introduction](README.md)
 
-* [Coins](Freebuild/Coins.md)
+# Freebuild section
 
-* [Kopfgeld](Freebuild/Kopfgeld.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+- [Coins test](Freebuild/Coins.md)
+- [Kopfgeld test](Freebuild/Kopfgeld.md)
+- [Lotterie test](Freebuild/Lotterie.md)
+- [test test](Freebuild/test.md)
