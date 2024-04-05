@@ -1,1 +1,0 @@
-Hier kannst du dein Geld verlieren!
