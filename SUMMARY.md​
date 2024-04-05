@@ -4,7 +4,5 @@
 
 # Freebuild section
 
-- [Coins test](Freebuild/Coins.md)
-- [Kopfgeld test](Freebuild/Kopfgeld.md)
-- [Lotterie test](Freebuild/Lotterie.md)
-- [test test](Freebuild/test.md)
+- [Coins test](test/test.md)
+- [Kopfgeld test](test/test-2.md)
