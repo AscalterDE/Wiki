@@ -5,4 +5,4 @@ root: ./
   summary: SUMMARY.md​
 
 redirects:
-  previous/page: Freebuild/Coins.md
+  about: ./Freebuild/Coins.md
